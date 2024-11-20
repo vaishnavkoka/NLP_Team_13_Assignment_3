@@ -94,10 +94,10 @@ After fine-tuning, the model was uploaded to the **Hugging Face** Model Hub for 
 
 ### *Dataset*
 
-| Dataset                        | Kaggle Link                               |
+| Dataset                        | HuggingFace Link                               |
 |-----------------------------------|-------------------------------------------|
-| **SST**        | [🟩 Kaggle Link](https://www.kaggle.com/datasets/atulanandjha/stanford-sentiment-treebank-v2-sst2) |
-| **SQuAD2.0**     | [🟩 Kaggle Link](https://www.kaggle.com/datasets/thedevastator/squad2-0-a-challenge-for-question-answering-syst) |
+| **SST**        | [🤗 HuggingFace Link](https://huggingface.co/datasets/stanfordnlp/sst2) |
+| **SQuAD2.0**     | [🤗 HuggingFace Link](https://huggingface.co/datasets/rajpurkar/squad_v2) |
 
 
 <br><br><br>
