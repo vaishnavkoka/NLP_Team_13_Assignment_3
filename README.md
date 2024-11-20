@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fe6e4c73-b500-47cd-ba56-cb9e493bd494)## *<div align='center'>NLP_Assignment_3</div>*
+## *<div align='center'>NLP_Assignment_3</div>*
 ### *<div align='center'> NLP_Team_13: Fine Tuning & Evaluation</div>*
 
 
