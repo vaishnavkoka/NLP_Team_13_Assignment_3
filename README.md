@@ -74,24 +74,12 @@ After fine-tuning, the model was uploaded to the **Hugging Face** Model Hub for 
 -The fine-tuned model performs better on task-specific tasks like SST-2 and SQuAD compared to the zero-shot model. This is because fine-tuning helps the model specialize in the target task by adjusting its weights based on labeled data. The zero-shot model can make reasonable predictions but lacks the specialized knowledge gained through fine-tuning.
 
 
-<br>
-
-<table>
-  <tr>
-    <td width="66%">
-      <img src="https://github.com/user-attachments/assets/1bcbeba8-9c55-4dd8-8151-eac9f08d13b2" width="100%">
-    </td>
-    <td width="33%">
 
 | Tokenizer                        | Kaggle Link                               |
 |-----------------------------------|-------------------------------------------|
 | **BertWordPieceTokenizer**        | [🟩 Kaggle Link](https://www.kaggle.com/code/vaishnavkoka24310069/bertwordpiecetokenizer/) |
 | **SentencePieceBPETokenizer**     | [🟩 Kaggle Link](https://www.kaggle.com/code/ramanand9/sentencepiecebpetokenizer/) |
 
-   </td>
-  </tr>
-</table>
-<br>
 
 ### *Dataset*
 
