@@ -1,12 +1,13 @@
 ## *<div align='center'>NLP_Assignment_3</div>*
 ### *<div align='center'> NLP_Team_13: Fine Tuning & Evaluation</div>*
-<br><br>
+
+
 ### *Overview*
 This project aims to fine-tune the pre-trained Llama3.2-1B/Gemma model for two specific Natural Language Processing (NLP) tasks: Sentiment Classification (SST-2) and Question-Answering (SQuAD). The goal is to evaluate the model’s performance before and after fine-tuning and explore how fine-tuning enhances its ability to handle task-specific requirements.
 
 ## *Tasks:*
-Sentiment Classification (SST-2): This binary classification task involves predicting the sentiment of a sentence as either positive or negative.
-Question-Answering (SQuAD): This task involves answering a question based on a provided context from the SQuAD dataset.
+**Sentiment Classification (SST-2)**: This binary classification task involves predicting the sentiment of a sentence as either positive or negative.
+**Question-Answering (SQuAD)**: This task involves answering a question based on a provided context from the SQuAD dataset.
 By fine-tuning the model on these tasks, we aim to improve its ability to perform classification and question-answering more accurately.
 
 
@@ -58,17 +59,17 @@ These metrics provide a comprehensive evaluation of the model’s performance on
 After fine-tuning, the model was uploaded to the **Hugging Face** Model Hub for easy access and sharing with the community. The fine-tuned model is now available for others to use for sentiment classification and question-answering tasks.
 
 ## Points to ponder
-# Lower or Higher Scores in the Metrics
+### Lower or Higher Scores in the Metrics
 
 -Fine-tuning generally leads to higher scores on task-specific metrics (such as accuracy for classification and exact-match for question-answering).
 
 -The improvement depends on the quality of the fine-tuning dataset, the size of the model, and the training process. If the fine-tuning dataset is small or poorly labeled, the performance gains may be minimal.
 
-# Understanding from the Number of Parameters
+### Understanding from the Number of Parameters
 
 -Number of parameters typically remains constant during fine-tuning because we are not altering the architecture of the model. Fine-tuning involves updating the weights of the existing parameters based on task-specific data, not adding or removing any parameters. The total count of 1 billion parameters in the Llama3.2-1B/Gemma model remains unchanged.
 
-# Performance Difference for Zero-Shot and Fine-Tuned Models
+### Performance Difference for Zero-Shot and Fine-Tuned Models
 
 -The fine-tuned model performs better on task-specific tasks like SST-2 and SQuAD compared to the zero-shot model. This is because fine-tuning helps the model specialize in the target task by adjusting its weights based on labeled data. The zero-shot model can make reasonable predictions but lacks the specialized knowledge gained through fine-tuning.
 
