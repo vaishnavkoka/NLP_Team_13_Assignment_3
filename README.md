@@ -1,14 +1,25 @@
-## *<div align='center'>NLP_Assignment_3</div>*
+![image](https://github.com/user-attachments/assets/fe6e4c73-b500-47cd-ba56-cb9e493bd494)## *<div align='center'>NLP_Assignment_3</div>*
 ### *<div align='center'> NLP_Team_13: Fine Tuning & Evaluation</div>*
 
 
 ### *Overview*
 This project aims to fine-tune the pre-trained Llama3.2-1B/Gemma model for two specific Natural Language Processing (NLP) tasks: Sentiment Classification (SST-2) and Question-Answering (SQuAD). The goal is to evaluate the model’s performance before and after fine-tuning and explore how fine-tuning enhances its ability to handle task-specific requirements.
 
-## *Tasks:*
+### *Tasks:*
 **Sentiment Classification (SST-2)**: This binary classification task involves predicting the sentiment of a sentence as either positive or negative.
 **Question-Answering (SQuAD)**: This task involves answering a question based on a provided context from the SQuAD dataset.
-By fine-tuning the model on these tasks, we aim to improve its ability to perform classification and question-answering more accurately.
+By fine-tuning the model on these tasks, we aim to improve its ability to perform classification and question-answering accurately.
+
+[```Flow of this documentation is as per the tasks mentioned in this paper```](https://docs.google.com/document/d/1uU6isq4UAufFzfoKtZmzoHl01X2IDBFe1qrcf4SNDxY/edit?tab=t.0])
+<br><br>
+### **Task-1):-** *Selection of model*
+**For this study we chose both models;**
+- Gemma for SST-2 dataset classification task
+- Llama for Squad-2 Q&A task.
+<br><br>
+### **Task-2):-** *Number of Parameters in Gemma & Llama-3.2-1b*
+
+![image](https://github.com/user-attachments/assets/d6825bd2-dec5-44c7-8a64-158f78a622d0)
 
 
 
