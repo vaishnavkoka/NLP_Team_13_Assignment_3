@@ -2,7 +2,12 @@
 ### *<div align='center'> NLP_Team_13: Fine Tuning & Evaluation</div>*
 <br><br>
 ### *Overview*
-This project focuses fine-tuning and evaluation of Llama3.2-1B/Gemma model
+This project aims to fine-tune the pre-trained Llama3.2-1B/Gemma model for two specific Natural Language Processing (NLP) tasks: Sentiment Classification (SST-2) and Question-Answering (SQuAD). The goal is to evaluate the model’s performance before and after fine-tuning and explore how fine-tuning enhances its ability to handle task-specific requirements.
+
+##*Tasks:*
+Sentiment Classification (SST-2): This binary classification task involves predicting the sentiment of a sentence as either positive or negative.
+Question-Answering (SQuAD): This task involves answering a question based on a provided context from the SQuAD dataset.
+By fine-tuning the model on these tasks, we aim to improve its ability to perform classification and question-answering more accurately.
 
 
 
