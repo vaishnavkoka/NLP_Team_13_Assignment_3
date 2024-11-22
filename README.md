@@ -86,10 +86,16 @@ After fine-tuning, the model was uploaded to the **Hugging Face** Model Hub for 
 
 
 
-| Tokenizer                        | Kaggle Link                               |
+| Model                        | Kaggle Link                               |
 |-----------------------------------|-------------------------------------------|
-| **BertWordPieceTokenizer**        | [🟩 Kaggle Link](https://www.kaggle.com/code/vaishnavkoka24310069/bertwordpiecetokenizer/) |
-| **SentencePieceBPETokenizer**     | [🟩 Kaggle Link](https://www.kaggle.com/code/ramanand9/sentencepiecebpetokenizer/) |
+| **Llama using SST Dataset**        | [🟩 Kaggle Link](https://www.kaggle.com/code/vaishnavkoka24310069/fine-tuned-llama-sst/) |
+| **SentencePieceBPETokenizer**     | [🟩 Kaggle Link]() |
+
+![llama pre training parameters](https://github.com/user-attachments/assets/063aa203-6d1d-45c8-917d-e38b8d98ffdd)
+![llama pre training metrics](https://github.com/user-attachments/assets/9fbd1122-47da-4fa8-b870-f0b77c69e096)
+![llama post training parameters](https://github.com/user-attachments/assets/942f1599-b396-4ab8-b294-bc40608c64af)
+![llama post training metrics](https://github.com/user-attachments/assets/d1a7024d-4efc-4a63-8e11-f81b5f09b2bd)
+
 
 
 ### *Dataset*
