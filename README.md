@@ -88,7 +88,7 @@ After fine-tuning, the model was uploaded to the **Hugging Face** Model Hub for 
 
 | Model                        | Kaggle Link                               |
 |-----------------------------------|-------------------------------------------|
-| **Llama using SST Dataset**        | [🟩 Kaggle Link](https://www.kaggle.com/code/vaishnavkoka24310069/fine-tuned-llama-sst/) |
+| **Llama using SST Dataset**        | [🟩 Kaggle Link](https://www.kaggle.com/code/vaishnavkoka24310069/fine-tuned-llama-sst) |
 | **SentencePieceBPETokenizer**     | [🟩 Kaggle Link]() |
 
 ![llama pre training parameters](https://github.com/user-attachments/assets/063aa203-6d1d-45c8-917d-e38b8d98ffdd)
