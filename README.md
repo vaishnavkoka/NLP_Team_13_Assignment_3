@@ -10,7 +10,7 @@
 > - **Sentiment Classification (SST-2)**: This binary classification task involves predicting the sentiment of a sentence as either positive or negative.
 > - **Question-Answering (SQuAD)**: This task involves answering a question based on a provided context from the SQuAD dataset.
 By fine-tuning the model on these tasks, we aim to improve its ability to perform classification and question-answering accurately.
-> [```Flow of this documentation is as per the tasks mentioned in this paper```](https://docs.google.com/document/d/1uU6isq4UAufFzfoKtZmzoHl01X2IDBFe1qrcf4SNDxY/edit?tab=t.0])
+> - [```Flow of this documentation is as per the tasks mentioned in this paper```](https://docs.google.com/document/d/1uU6isq4UAufFzfoKtZmzoHl01X2IDBFe1qrcf4SNDxY/edit?tab=t.0])
 
 <br><br>
 ### **Task-1):-** *Selection of model*
@@ -161,7 +161,7 @@ The following evaluation metrics were used to assess the model’s performance:
 
 <br><br><br><br>
 
-> **This README serves as a detailed explanation of the project, from the model selection to fine-tuning, evaluation, and performance analysis. It should help other users understand the purpose and methodology behind the fine-tuning process, as well as how to use the fine-tuned model.**
+> ```This README serves as a detailed explanation of the project, from the model selection to fine-tuning, evaluation, and performance analysis. It should help other users understand the purpose and methodology behind the fine-tuning process, as well as how to use the fine-tuned model.```
 
 <br><br><br><br>
 
