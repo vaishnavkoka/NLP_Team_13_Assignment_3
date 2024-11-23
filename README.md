@@ -181,14 +181,16 @@ Each team member made significant contributions to the project tasks, as detaile
 <br><br><br><br>
 
 #### *References:*
-1. https://huggingface.co/meta-llama/Llama-3.2-1B
-2. https://huggingface.co/google/gemma-2-2b-it
-3. https://stackoverflow.com/questions/49201236/check-the-total-number-of-parameters-in-a-pytorch-model
-4. https://www.kaggle.com/datasets/atulanandjha/stanford-sentiment-treebank-v2-sst2/code
-5. https://huggingface.co/datasets/rajpurkar/squad_v2
-6. https://discuss.huggingface.co/t/how-to-split-hugging-face-dataset-to-train-and-test/20885/3
-7. https://huggingface.co/docs/evaluate/en/choosing_a_metric
-8. https://huggingface.co/tasks/question-answering
-9. https://anthonywchen.github.io/Papers/evaluatingqa/mrqa_slides.pdf
-10. https://medium.com/@sabaybiometzger/fine-tuning-gemma-2b-for-binary-classification-4-bit-quantization-60437e877723
-11. https://huggingface.co/docs/datasets/v1.1.0/loading_metrics.html
+
+1. [Llama-3.2-1B Model on Hugging Face](https://huggingface.co/meta-llama/Llama-3.2-1B)
+2. [Gemma-2-2B-IT Model on Hugging Face](https://huggingface.co/google/gemma-2-2b-it)
+3. [Stack Overflow - Check the Total Number of Parameters in a PyTorch Model](https://stackoverflow.com/questions/49201236/check-the-total-number-of-parameters-in-a-pytorch-model)
+4. [Stanford Sentiment Treebank v2 Dataset on Kaggle](https://www.kaggle.com/datasets/atulanandjha/stanford-sentiment-treebank-v2-sst2/code)
+5. [SQuAD v2 Dataset on Hugging Face](https://huggingface.co/datasets/rajpurkar/squad_v2)
+6. [Hugging Face - How to Split Datasets for Training and Testing](https://discuss.huggingface.co/t/how-to-split-hugging-face-dataset-to-train-and-test/20885/3)
+7. [Hugging Face - Choosing a Metric for Evaluation](https://huggingface.co/docs/evaluate/en/choosing_a_metric)
+8. [Hugging Face Tasks - Question Answering](https://huggingface.co/tasks/question-answering)
+9. [Evaluating Question Answering Models - MRQA Slides](https://anthonywchen.github.io/Papers/evaluatingqa/mrqa_slides.pdf)
+10. [Fine-Tuning Gemma-2B for Binary Classification and Quantization](https://medium.com/@sabaybiometzger/fine-tuning-gemma-2b-for-binary-classification-4-bit-quantization-60437e877723)
+11. [Hugging Face Datasets - Loading Metrics](https://huggingface.co/docs/datasets/v1.1.0/loading_metrics.html)
+
