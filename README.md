@@ -157,11 +157,11 @@ The following evaluation metrics were used to assess the model’s performance:
   </tr>
   <tr>
     <td><strong>Llama for SST</strong></td>
-    <td><a href="#">🤗 HuggingFace Link</a></td>
+    <td><a href="https://huggingface.co/vaishnavkoka/fine_tuned_llama_sst2">🤗 HuggingFace Link</a></td>
   </tr>
   <tr>
     <td><strong>Llama for SQuAD2.0</strong></td>
-    <td><a href="#">🤗 HuggingFace Link</a></td>
+    <td><a href="https://huggingface.co/vaishnavkoka/fine_tune_llama_squad2">🤗 HuggingFace Link</a></td>
   </tr>
 </table>
 
