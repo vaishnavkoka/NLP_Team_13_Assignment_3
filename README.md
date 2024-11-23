@@ -20,9 +20,27 @@ By fine-tuning the model on these tasks, we aim to improve its ability to perfor
 <br><br><br>
 ### **Task-2):-** *Number of Parameters in Gemma & Llama-3.2-1b*
 <br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d6825bd2-dec5-44c7-8a64-158f78a622d0" alt="Image"/>
-</p>
+
+<table border="2" cellpadding="10" align = 'center'>
+  <tr>
+    <th><b>Parameters</b></th>
+    <th><b>Gemma-2B</b></th>
+    <th><b>Llama-3-1B</b></th>
+  </tr>
+  <tr>
+    <td><b>Reported in Paper</b></td>
+    <td>2.6B</td>
+    <td>1.2B</td>
+  </tr>
+  <tr>
+    <td><b>Calculated</b></td>
+    <td>2.6B</td>
+    <td>1.2B</td>
+  </tr>
+</table>
+
+
+
 
 <br><br><br>
 
@@ -63,7 +81,7 @@ The following evaluation metrics were used to assess the model’s performance:
 
 <br><br><br>
 
-<table align="center">
+<table align="center" border="2" cellpadding="10">
   <tr>
     <th>Model with Dataset Name</th>
     <th>Kaggle NoteBook Link</th>
@@ -88,7 +106,7 @@ The following evaluation metrics were used to assess the model’s performance:
 > These metrics provide a comprehensive evaluation of the model’s performance on each task and help determine the effectiveness of fine-tuning.
 
 <br><br>
-<table style="width:100%; table-layout:fixed;">
+<table style="width:100%; table-layout:fixed;" border="3" cellpadding="10">
   <tr>
     <td style="width:50%; text-align:center;">
       <img src="https://github.com/user-attachments/assets/9fbd1122-47da-4fa8-b870-f0b77c69e096" alt="Pre-training metrics" style="width:95%;"/>
@@ -132,7 +150,7 @@ The following evaluation metrics were used to assess the model’s performance:
 
 > - After fine-tuning, the model was uploaded to the **Hugging Face** Model Hub for easy access and sharing with the community. The fine-tuned model is now available for others to use for sentiment classification and question-answering tasks.
 <br>
-<table align="center">
+<table align="center" border="2" cellpadding="10">
   <tr>
     <th>Dataset</th>
     <th>HuggingFace Link</th>
